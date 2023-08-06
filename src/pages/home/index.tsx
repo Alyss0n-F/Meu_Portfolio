@@ -47,18 +47,18 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Olá, meu nome é {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            Minha{" "}
+            Sou um {" "}
               <Text as="span" type="heading1" color="brand1">
-                paixão
+              desenvolvedor
               </Text>{" "}
-              é criar e{" "}
+              web{" "}
               <Text as="span" type="heading1" color="brand1">
-                desenvolver
+                Fullstack
               </Text>{" "}
-              projetos
+                , e estas são as tecnologias que domino
             </Text>
             <Text type="body1" color="grey2">
-              Sou um desenvolvedor web fullstack e aqui estão as tecnologias que domino. Veja também alguns dos meus projetos
+              Tenho 23 anos, e um ano de experiencia em projetos de frontend e backend. Tenho formação de desenvolvedor web Fullstack pela Kenzie Academy Brasil, e curso Ciências da Computação na UEVA. Meu foco é evoluir sempre em meus conhecimentos e desenvolver projetos cada vez melhores. Veja abaixo alguns dos projetos que desenvolvi ao longo da minha carreira.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
